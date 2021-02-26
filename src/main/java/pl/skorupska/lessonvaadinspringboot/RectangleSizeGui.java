@@ -35,7 +35,7 @@ public class RectangleSizeGui extends VerticalLayout {
         add(textFieldRectangle);
 
     }
-    
+
 
 
 }
